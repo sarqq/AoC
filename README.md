@@ -1,2 +1,2 @@
-# AoC21
-Advent of Code 2021
+# AoC
+Advent of Code
